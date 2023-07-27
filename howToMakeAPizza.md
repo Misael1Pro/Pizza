@@ -6,3 +6,4 @@
 5. hornear por un tiempo determinado 
 6. empacar
 7. entregar la pizza terminada
+8. no se deja actualizar
