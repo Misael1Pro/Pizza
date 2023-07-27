@@ -1,4 +1,4 @@
-#Pasos para crear un Pizza
+#Pasos para crear un Piza
 1. Comprar los ingredientes par ala masa 
 2. Hacer la preparacion y condimentacion de la masa 
 3. darle forma de circulo 
